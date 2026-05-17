@@ -4,8 +4,9 @@ By Default Swetrix uses Nginx, this docker compose file is for users who are not
 
 
 
-`cp .env.example .env
+```
+cp .env.example .env
 # edit .env
-docker compose up -d`
+docker compose up -d```
 
 
